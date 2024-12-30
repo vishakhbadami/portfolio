@@ -23,4 +23,4 @@ To view the portfolio locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vishakhbadami/portfolio.git
